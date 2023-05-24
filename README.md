@@ -1,4 +1,4 @@
-# Web Scraping and Visualization
+# Webscraping and Visualization
 
 This repository contains scripts, resources, and files for web scraping data using Jupyter Notebook, as well as a Power BI dashboard for data visualization.
 
@@ -6,14 +6,14 @@ This repository contains scripts, resources, and files for web scraping data usi
 
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Web Scrapping](#web-scrapping)
+- [Web Scraping](#web-scraping)
 - [Data Visualization](#data-visualization)
 - [Usage](#usage)
 - [License](#license)
 
 ## Project Description
 
-The Web Scraping and Visualization project aims to provide examples and scripts for extracting data from websites using web scraping techniques. The repository includes a Jupyter Notebook file with the web scraping code and a Power BI dashboard file for data visualization.
+The Webscraping and Visualization project aims to provide examples and scripts for extracting data from websites using web scraping techniques. The repository includes a Jupyter Notebook file with the web scraping code and a Power BI dashboard file for data visualization.
 
 ## Installation
 
